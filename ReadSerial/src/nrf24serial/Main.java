@@ -15,7 +15,7 @@ public class Main {
 		}
 		Main main = new Main(args);
 		main.run();
-	}
+	} // End of main
 
 	public Main(String args[]) {
 		System.out.println("Working with port: " + args[0]);
